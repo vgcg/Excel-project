@@ -47,6 +47,6 @@ The project transforms raw data into meaningful insights through data cleaning, 
 
 ## 🖼️ Dashboard Preview
 
-![Bike Sales Dashboard](images/bike-sales-dashboard.png)
+![Bike Sales Dashboard](exceldashboard.png)
 
 ## 📁 Project Structure
